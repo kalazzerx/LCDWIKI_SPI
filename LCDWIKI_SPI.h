@@ -33,6 +33,7 @@
 #define ID_7735_128 9
 #define ID_9488   10
 #define ID_9225   11
+#define ID_7796   12
 #define ID_UNKNOWN 0xFF
 
 //LCD controller chip mode identifiers
@@ -50,6 +51,7 @@
 #define ILI9488 11
 #define ILI9488_18 12
 #define ILI9225 13
+#define ST7796S 14
 
 
 typedef struct _lcd_info
